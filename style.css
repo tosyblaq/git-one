@@ -1,4 +1,6 @@
 body{
     color: #000;
     background-color: red;
+    font-size: 12px;
+    background-image: url('image.jpg');
 }
